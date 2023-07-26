@@ -18,6 +18,8 @@ seaborn = "^0.12.2"
 textblob = "^0.17.1"
 spacy = "^3.5.4"
 spacy-langdetect = "^0.1.2"
+pandoc = "^2.3"
+nbconvert = "^7.7.3"
 
 
 [build-system]

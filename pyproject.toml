@@ -20,6 +20,7 @@ spacy = "^3.5.4"
 spacy-langdetect = "^0.1.2"
 pandoc = "^2.3"
 nbconvert = "^7.7.3"
+networkx = "^3.1"
 
 
 [build-system]
